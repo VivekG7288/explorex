@@ -1,7 +1,6 @@
 import { Component } from "react";
 import "./DestinationStyle.css"
-import image1 from "../images/1.jpg"
-import image2 from "../images/2.jpg"
+
 
 class DestinationData extends Component{
     render(){

@@ -1,5 +1,4 @@
 import React from 'react'
-import Navbar from './components/Navbar'
 import Home from './routes/Home'
 import Service from './routes/Service'
 import About from './routes/About'
